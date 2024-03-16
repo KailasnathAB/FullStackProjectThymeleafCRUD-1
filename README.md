@@ -1,1 +1,1 @@
-# FullStackProjectThymeleafCRUD-1
+Welcome to our Full Stack CRUD Project! This application provides comprehensive Create, Read, Update, and Delete (CRUD) functionality, allowing users to seamlessly manage data across the stack. From front-end user interfaces to back-end databases, our project offers a robust solution for handling data operations efficiently.
